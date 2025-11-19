@@ -174,7 +174,7 @@ button {
   grid-area: I7;
 }
 .grid_image {
-  border-radius: 10px;
+  border-radius: 20px;
   transition: 0.2s ease-in-out;
 }
 .grid_image:hover {
